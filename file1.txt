@@ -1,1 +1,2 @@
 new file of git test
+change file of git test
